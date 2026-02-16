@@ -3,7 +3,7 @@ How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
 
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
+# CP3407 Project
 
 This a project assignment template for CP3407. 
 The following is the list of items, which are required to be completed.
@@ -16,11 +16,22 @@ The following is the list of items, which are required to be completed.
 
 ## Team
 
-It is recommended to complete this assignment in a group of 2-4 students.
-1. Student 1
-2. Student name 2
-3. Name 3
-4. Name 4
+1. Vineet Kumar
+2. Brennen Caruana
+3. Kirubanithi Sornamoorthy
+
+# FeedMe – Intelligent Food Delivery Platform
+
+CP3407 Software Engineering Project
+
+FeedMe is a cloud-based food delivery platform designed to improve on FoodPanda by offering:
+
+- Transparent delivery pricing
+- Smart restaurant matching
+- Sustainability scoring
+- Vendor analytics dashboard
+
+This project follows an iterative development approach as described in Chapter 1 of the textbook. Each iteration delivers working software and incorporates customer feedback.
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
