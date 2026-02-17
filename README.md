@@ -35,15 +35,128 @@ This project follows an iterative development approach as described in Chapter 1
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
-Checklist/TODOs: 
-* Update the following during each week prac session
-* github entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-* ...
 
-Total: YY days
+## 1. Initial Idea Discussion (Week 1)
+
+During Week 1, we formed the group through messenger app. First we introduced each other. Then, the team discussed the project brief and analysed existing food delivery platforms such as FoodPanda and Uber Eats.
+
+We identified the following common issues:
+
+* Hidden delivery fees
+* Poor transparency of pricing
+* Limited tools for small vendors
+* No sustainability information
+
+From this discussion, we defined our Unique Selling Proposition (USP):
+
+* Transparent pricing breakdown
+* Smart restaurant matching
+* Sustainability scoring
+* Vendor analytics dashboard
+
+At this stage, no coding was done. We focused only on understanding “what is needed”, following the principle that software development should not be guesswork .
+
+---
+
+## 2. Requirement Identification (Week 1)
+
+We converted the project idea into user-focused requirements.
+
+We identified three main user roles:
+
+* Customer
+* Vendor
+* Admin
+
+We then created high-level features required for each role.
+
+
+## 3. Product Backlog Creation (Week 2)
+
+In Week 2, we created a prioritised backlog of features.
+
+We estimated each feature in developer days and assigned priorities (10 = highest priority).
+
+| Feature                | Priority | Estimate (Days) |
+| ---------------------- | -------- | --------------- |
+| User Authentication    | 10       | 3               |
+| Browse Restaurants     | 10       | 4               |
+| Place Order            | 10       | 5               |
+| Transparent Pricing    | 20       | 3               |
+| Vendor Menu Management | 20       | 4               |
+| Order Tracking         | 20       | 3               |
+| Reviews & Ratings      | 30       | 2               |
+| Vendor Analytics       | 30       | 5               |
+| Admin Approval         | 40       | 3               |
+
+Total Estimated Effort: 32 days
+
+This allowed us to balance scope and time, ensuring the project could realistically be completed within the trimester.
+
+---
+
+## 4. Iteration Planning (Week 2)
+
+Following the iterative approach described in Chapter 1, we structured development into iterations of approximately 20 working days .
+
+### Iteration 1 Time and Idea (Weeks 3–4)
+
+Focus: Core platform functionality
+
+* User Authentication
+* Browse Restaurants
+* Basic UI Framework
+
+### Iteration 2 Time and Idea (Weeks 5–7)
+
+Focus: Order and vendor functionality
+
+* Place Order
+* Transparent Pricing
+* Vendor Menu Management
+* Order Tracking
+
+Lower priority features were scheduled for later iterations or buffer time.
+
+---
+
+## 5. Risk Identification
+
+Before starting development, we identified potential risks:
+
+* Underestimating development time
+* Integration issues between frontend and backend
+* Database design errors
+* Scope creep
+
+To mitigate these risks, we decided:
+
+* Each iteration must produce working software
+* Testing will occur during each iteration
+* Features may be reprioritised if necessary
+
+This aligns with the principle that iteration helps manage change and keeps the project aligned with customer expectations .
+
+---
+
+## 6. Development Approach
+
+We selected:
+
+Frontend: React
+Backend: Node.js + Express
+Database: MySQL
+Deployment (later stage): AWS
+
+The decision was based on:
+
+* Scalability
+* Modern web practices
+* Cloud compatibility
+* Team familiarity
+
+---
+
 
 
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
