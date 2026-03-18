@@ -75,7 +75,7 @@ We then created high-level features required for each role.
 
 In Week 2, we created a prioritised backlog of features.
 
-We estimated each feature in developer days and assigned priorities (10 = highest priority).
+We estimated each feature in developer days and assigned priorities (40 = highest priority).
 
 | Feature                | Priority | Estimate (Days) |
 | ---------------------- | -------- | --------------- |
