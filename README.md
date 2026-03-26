@@ -212,6 +212,13 @@ Not Completed / Moved Forward
 Reflection
 Iteration 1 focused on creating a working Android prototype with core navigation, user access, and restaurant browsing. This provided a strong foundation for future development and reduced technical risk early in the project. Although place-order functionality was originally planned, it was deferred because additional work was required to connect menu selection, cart state, and database updates. The team prioritised delivering stable working software at the end of the iteration, which is consistent with an agile and iterative development process.
 
+
+<img width="294" height="649" alt="Page 3" src="https://github.com/user-attachments/assets/6b273830-adbe-4e3d-a71b-8c14275fe163" />
+<img width="293" height="649" alt="Page 2" src="https://github.com/user-attachments/assets/489b36c9-0d42-4e2a-acdd-e4377ab348f3" />
+<img width="292" height="650" alt="Page 1" src="https://github.com/user-attachments/assets/317d5e88-82e0-449a-8b30-fe93d1054421" />
+
+
+
 2. [Iteration-2](./iteration_2.md)
 
 
