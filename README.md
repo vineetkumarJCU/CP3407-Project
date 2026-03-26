@@ -186,6 +186,32 @@ Total: YY days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
+
+Actual Iterations
+
+Actual Iteration 1
+Duration: Weeks 3–4  
+Goal: Deliver the initial Android application structure and core customer browsing experience.
+Planned
+- User Authentication
+- Browse Restaurants
+- Basic UI Framework
+- Place Order
+Completed
+- Set up the FeedMe Android project in Android Studio using Kotlin
+- Designed the core user interface using Jetpack Compose
+- Created navigation between major screens such as login, register, home, and restaurant list
+- Implemented user authentication screens for sign up and login
+- Built the restaurant browsing screen to display restaurant data
+- Developed a restaurant details screen to support future menu and ordering features
+Not Completed / Moved Forward
+- Full place-order functionality was not completed in Iteration 1
+- Cart and checkout logic required additional data modelling and UI integration
+- Advanced visual polish was postponed to the next iteration
+
+Reflection
+Iteration 1 focused on creating a working Android prototype with core navigation, user access, and restaurant browsing. This provided a strong foundation for future development and reduced technical risk early in the project. Although place-order functionality was originally planned, it was deferred because additional work was required to connect menu selection, cart state, and database updates. The team prioritised delivering stable working software at the end of the iteration, which is consistent with an agile and iterative development process.
+
 2. [Iteration-2](./iteration_2.md)
 
 
