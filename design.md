@@ -35,31 +35,66 @@ Design focuses on usability, simplicity, and efficiency.
 
 The FeedMe application follows a layered architecture design:
 
-- UI Layer: Android screens (Login, Register, Restaurant List, Details)
-- Data Layer: DataRepository handles all application logic
-- Model Layer: Data classes (User, Restaurant, Order)
+### UI Layer
+The UI layer consists of Android screens built using Jetpack Compose, including:
+- Login
+- Register
+- Restaurant List
+- Restaurant Details
 
-The UI interacts with the DataRepository to retrieve and update data.  
-The DataRepository acts as a central source of truth and manages application state.
+This layer is responsible for handling user interaction and displaying data.
 
-This architecture improves:
-- Separation of concerns
-- Maintainability
-- Scalability for future backend integration (e.g., Firebase or AWS)
+### Data Layer (Repository)
+The DataRepository acts as the core logic layer of the application. It is responsible for:
+- Managing user authentication
+- Retrieving restaurant data
+- Handling order placement
+- Acting as a central source of truth for the application
+
+The UI communicates only with the DataRepository, ensuring separation between presentation and business logic.
+
+### Model Layer
+The model layer defines the structure of application data using classes such as:
+- User
+- Restaurant
+- Order
+
+These models represent the core entities used throughout the system.
+
+### Database and Cloud Integration
+In the current prototype, data is managed locally through the DataRepository to simulate application behaviour.
+
+For production deployment, the system is designed to integrate with a relational database using:
+- MySQL as the database system
+- Amazon RDS as the cloud hosting service
+
+Amazon RDS provides a scalable and managed environment for hosting the MySQL database, allowing secure storage and retrieval of application data such as users, orders, and restaurants.
+
+This design ensures that the DataRepository can be extended to communicate with a real backend without changing the UI layer.
+
+### Architecture Flow
+
+[ UI Layer ]  
+(Login / Register / Screens)  
+        ↓  
+[ DataRepository ]  
+(Business Logic & Data Handling)  
+        ↓  
+[ MySQL Database (Amazon RDS) ]  
+(Cloud Data Storage)
+
+### Design Justification
+
+This layered architecture improves:
+
+- Separation of concerns: UI, logic, and data are clearly separated
+- Maintainability: changes in one layer do not affect others
+- Scalability: supports integration with cloud services such as AWS
+- Flexibility: allows easy transition from prototype to production system
 
 
-<img width="1130" height="568" alt="Architecture diagram 1" src="https://github.com/user-attachments/assets/be87307b-1849-4156-b643-7f3e9608e18f" />
+<img width="1536" height="1024" alt="Architecture Design" src="https://github.com/user-attachments/assets/e8603338-856a-45d0-96d6-747689339059" />
 
-
-
-[ UI Layer ]
-(Login / Register / Screens)
-        ↓
-[ DataRepository ]
-(Business Logic)
-        ↓
-[ Models ]
-(User / Restaurant / Order)
 
 
 **Database Diagram (ERD)**
