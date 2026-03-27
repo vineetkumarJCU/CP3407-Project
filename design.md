@@ -31,18 +31,36 @@ Screens:
 
 Design focuses on usability, simplicity, and efficiency.
 
-Architecture Diagram
+## Architecture Diagram
 
-The system follows a client-server architecture:
+The FeedMe application follows a layered architecture design:
 
-Android App (Frontend)
-Node.js Backend API
-MySQL Database
-AWS Cloud Hosting
+- UI Layer: Android screens (Login, Register, Restaurant List, Details)
+- Data Layer: DataRepository handles all application logic
+- Model Layer: Data classes (User, Restaurant, Order)
 
-The frontend communicates with the backend via REST APIs, and the backend interacts with the database to process requests.
+The UI interacts with the DataRepository to retrieve and update data.  
+The DataRepository acts as a central source of truth and manages application state.
 
-<img width="1536" height="1024" alt="Architecture diagram" src="https://github.com/user-attachments/assets/62275423-9114-404e-bbca-62dc63ad670c" />
+This architecture improves:
+- Separation of concerns
+- Maintainability
+- Scalability for future backend integration (e.g., Firebase or AWS)
+
+
+<img width="1130" height="568" alt="Architecture diagram 1" src="https://github.com/user-attachments/assets/be87307b-1849-4156-b643-7f3e9608e18f" />
+
+
+
+[ UI Layer ]
+(Login / Register / Screens)
+        ↓
+[ DataRepository ]
+(Business Logic)
+        ↓
+[ Models ]
+(User / Restaurant / Order)
+
 
 **Database Diagram (ERD)**
 
