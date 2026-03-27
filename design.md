@@ -31,7 +31,7 @@ Screens:
 
 Design focuses on usability, simplicity, and efficiency.
 
-**Architecture Diagram**
+Architecture Diagram
 
 The system follows a client-server architecture:
 
@@ -62,8 +62,8 @@ Orders connect users and restaurants
 
 <img width="1536" height="1024" alt="ERD diagram" src="https://github.com/user-attachments/assets/7ff5c880-64c2-4a01-a506-8a68faa7a839" />
 
-**Interface Design Mockups
-**
+Interface Design Mockups
+
 The application includes the following screens:
 
 Login / Register
