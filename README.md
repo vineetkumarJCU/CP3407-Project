@@ -73,6 +73,8 @@ We then created high-level features required for each role.
 
 ## 3. Product Backlog Creation (Week 2)
 
+
+
 In Week 2, we created a prioritised backlog of features.
 
 We estimated each feature in developer days and assigned priorities (40 = highest priority).
@@ -93,6 +95,16 @@ Total Estimated Effort: 32 days
 
 This allowed us to balance scope and time, ensuring the project could realistically be completed within the trimester.
 
+Priority Justification
+
+Priorities were assigned based on business value and system dependency:
+
+Priority 10 (highest): Core features required for system operation (authentication, browsing, ordering)
+Priority 20: Supporting features that improve usability
+Priority 30: Features that enhance user experience
+Priority 40 (lowest): Admin functionality implemented later
+
+This ensures essential features are delivered first, reducing risk and enabling early testing.
 ---
 
 ## 4. Iteration Planning (Week 2)
