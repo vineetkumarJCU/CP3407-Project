@@ -216,6 +216,12 @@ Iteration 1 focused on creating a working Android prototype with core navigation
 <img width="294" height="649" alt="Page 3" src="https://github.com/user-attachments/assets/6b273830-adbe-4e3d-a71b-8c14275fe163" />
 <img width="293" height="649" alt="Page 2" src="https://github.com/user-attachments/assets/489b36c9-0d42-4e2a-acdd-e4377ab348f3" />
 <img width="292" height="650" alt="Page 1" src="https://github.com/user-attachments/assets/317d5e88-82e0-449a-8b30-fe93d1054421" />
+<img width="293" height="650" alt="Page 4" src="https://github.com/user-attachments/assets/792273a8-cf30-4647-ac8b-e2b25d5362ec" />
+<img width="295" height="651" alt="Page 5" src="https://github.com/user-attachments/assets/d12c6f55-1c30-4180-a059-d8e9bc0c51c4" />
+<img width="293" height="655" alt="Page 6" src="https://github.com/user-attachments/assets/e6c3ae34-132a-4208-b0a2-ab8a0e8c6425" />
+
+
+
 
 
 
