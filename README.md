@@ -273,6 +273,15 @@ Design
 Testing
 Tools
 
+Deployment
+
+The system is designed for cloud deployment using modern infrastructure:
+
+Backend hosted on AWS EC2
+Database hosted on AWS RDS
+Android application tested on physical devices and emulator
+
+This deployment ensures scalability, reliability, and real-world readiness of the system.
 
 
 2. [Iteration-2](./iteration_2.md)
