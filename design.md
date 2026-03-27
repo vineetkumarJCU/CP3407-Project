@@ -62,4 +62,17 @@ Orders connect users and restaurants
 
 <img width="1536" height="1024" alt="ERD diagram" src="https://github.com/user-attachments/assets/7ff5c880-64c2-4a01-a506-8a68faa7a839" />
 
+**Interface Design Mockups
+**
+The application includes the following screens:
+
+Login / Register
+Home (restaurant browsing)
+Restaurant details
+Order / checkout
+
+The UI focuses on simplicity, fast navigation, and user-friendly interaction.
+
+
+<img width="1536" height="1024" alt="UI mockups" src="https://github.com/user-attachments/assets/b43b34df-dbc7-4d30-a4a0-53fd3eea414b" />
 
