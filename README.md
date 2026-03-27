@@ -107,6 +107,26 @@ Priority 40 (lowest): Admin functionality implemented later
 This ensures essential features are delivered first, reducing risk and enabling early testing.
 ---
 
+**4. Project Capacity and Feasibility
+**
+Team Size: 3 developers
+
+Assumed Velocity:
+Each developer can complete ~15 days of work per iteration.
+
+Total Capacity:
+3 × 15 = 45 days
+
+Total Work:
+32 days
+
+Feasibility:
+The workload fits within team capacity, leaving buffer for testing and issues.
+
+Conclusion:
+The project is achievable on time and within budget.
+
+
 ## 4. Iteration Planning (Week 2)
 
 Following the iterative approach described in Chapter 1, we structured development into iterations of approximately 20 working days .
