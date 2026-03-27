@@ -111,6 +111,20 @@ This ensures essential features are delivered first, reducing risk and enabling 
 **
 Team Size: 3 developers
 
+
+Burndown Chart (Iteration 1)
+
+The burndown chart shows the remaining work over time:
+
+Week 4: 20 days remaining
+Week 3: 12 days remaining
+Week 2: 5 days remaining
+Week 1: 0 days remaining
+
+This demonstrates steady progress and effective iteration management.
+
+
+
 Assumed Velocity:
 Each developer can complete ~15 days of work per iteration.
 
