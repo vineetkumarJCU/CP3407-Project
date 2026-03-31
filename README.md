@@ -317,5 +317,68 @@ This deployment plan ensures scalability, security, and future production readin
 
 
 2. [Iteration-2](./iteration_2.md)
+# Actual Iteration 2
+
+## Duration
+
+30th March 2026 - end date to be finalised when finished
+
+## Goal
+
+Complete authentication, ordering workflow, pricing transparency, and UI refinements.
+
+## Planned
+
+* Authentication flow
+* Place Order
+* Transparent Pricing
+* Vendor Menu Management
+* Order Tracking
+* Cart / Checkout integration
+* UI improvements from client feedback
+
+## Completed
+
+* Implemented authentication flow for login and register screens
+* Added user validation and state management
+* Implemented cart and checkout workflow
+* Added order placement functionality
+* Added transparent pricing breakdown
+* Improved restaurant details screen
+* Refined UI layout and navigation flow
+* Improved loading speed and state handling
+
+## Not Completed / Moved Forward
+
+* Vendor analytics dashboard
+* Admin approval workflow
+* Review and rating system
+* Order history
+
+## Reflection
+
+Iteration 2 focused on completing the customer journey from authentication through checkout.
+
+Moving authentication from Iteration 1 into Iteration 2 was necessary because the team prioritised establishing stable navigation and screen structure first.
+
+This improved scope control and allowed the authentication flow to be implemented more reliably alongside checkout and pricing functionality.
+
+## Client Feedback (Iteration 2)
+
+Positive:
+
+* Login and register flow works smoothly
+* Checkout feels realistic
+* Pricing transparency is clear
+
+Requested improvements:
+
+* Add order history
+* Add review system
+* Add vendor dashboard
+
+Action:
+Added to future backlog.
+
 
 
