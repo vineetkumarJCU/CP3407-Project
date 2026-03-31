@@ -2,9 +2,16 @@
 
 ## Development
 
-* Android Studio
-* Node.js
-* MySQL
+Development Tools
+Android Studio
+Kotlin
+Jetpack Compose
+GitHub
+MySQL Workbench
+Amazon RDS
+AWS Console
+Draw.io / UML tools
+GenMyModel for ERD
 
 ## Cloud
 
