@@ -2,8 +2,8 @@
 
 ## Duration
 
-Start Date: Week 3 (e.g., 15 March 2026)
-End Date: Week 4 (e.g., 29 March 2026)
+Start Date: 6 March 2026
+End Date: 31 March 2026
 
 ---
 
