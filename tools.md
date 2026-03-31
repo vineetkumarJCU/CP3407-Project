@@ -15,4 +15,10 @@
 
 * GitHub
 
-These tools support scalability and efficient development.
+GitHub was used for:
+
+iteration planning
+feature commits
+design documentation
+backlog updates
+sprint evidence
