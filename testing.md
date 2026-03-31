@@ -2,19 +2,23 @@
 
 ## Unit Testing
 
-* Login validation
-* Input checks
+* Authentication validation
+* Cart total calculation
+* Transparent pricing logic
 
 ## Integration Testing
 
-* App ↔ Backend
-* Backend ↔ Database
+* UI → DataRepository
+* Repository → prototype data
+* Checkout workflow
 
 ## Acceptance Testing
 
-| Feature | Expected          | Result |
-| ------- | ----------------- | ------ |
-| Login   | Works             | Pass   |
-| Browse  | Shows restaurants | Pass   |
+| Feature  | Test Data            | Expected          | Result |
+| -------- | -------------------- | ----------------- | ------ |
+| Login    | valid email/password | user logged in    | Pass   |
+| Checkout | 2 items              | correct total     | Pass   |
+| Browse   | restaurants list     | restaurants shown | Pass   |
+
 
 Testing ensures system reliability and correctness.
