@@ -204,32 +204,42 @@ The decision was based on:
 
 ---
 
+Planned Iterations
+Iteration 1 (10 February 2026 – 24 February 2026)
 
+Goal: Deliver the initial Android application structure and core customer browsing functionality.
 
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
+Planned user stories:
 
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
+User Authentication, priority 10, 3 days
+Browse Restaurants, priority 10, 4 days
+Basic UI Framework, priority 10, 3 days
+Restaurant Details, priority 20, 2 days
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+Total: 12 days
 
-Total: YY days
+Iteration 2 (25 February 2026 – 17 March 2026)
 
+Goal: Implement ordering, pricing, and vendor-side functionality.
 
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+Planned user stories:
 
-Total: YY days
+Place Order, priority 10, 5 days
+Transparent Pricing, priority 20, 3 days
+Vendor Menu Management, priority 20, 4 days
+Order Tracking, priority 20, 3 days
 
-### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+Total: 15 days
 
-Total: YY days
+Deferred / Future Iteration
+
+Features planned for future enhancement:
+
+Reviews & Ratings, priority 30, 2 days
+Vendor Analytics, priority 30, 5 days
+Admin Approval, priority 40, 3 days
+
+Total: 10 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
