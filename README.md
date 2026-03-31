@@ -292,11 +292,18 @@ Deployment
 
 The system is designed for cloud deployment using modern infrastructure:
 
-Backend hosted on AWS EC2
-Database hosted on AWS RDS
-Android application tested on physical devices and emulator
+Planned production deployment:
 
-This deployment ensures scalability, reliability, and real-world readiness of the system.
+Backend hosted on AWS EC2
+Database hosted on Amazon RDS using MySQL
+Android application connected through backend API
+
+Current prototype:
+
+Android application tested on physical devices and emulator
+DataRepository used for local simulation of application behaviour
+
+This deployment plan ensures scalability, security, and future production readiness.
 
 
 2. [Iteration-2](./iteration_2.md)
