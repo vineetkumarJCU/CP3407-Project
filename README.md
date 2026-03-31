@@ -258,8 +258,8 @@ Completed
 - Set up the FeedMe Android project in Android Studio using Kotlin
 - Designed the core user interface using Jetpack Compose
 - Created navigation between major screens such as login, register, home, and restaurant list
-- Implemented user authentication screens for sign up and login
 - Built the restaurant browsing screen to display restaurant data
+- Authentication flow (login and register)
 - Developed a restaurant details screen to support future menu and ordering features
 Not Completed / Moved Forward
 - Full place-order functionality was not completed in Iteration 1
