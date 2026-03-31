@@ -189,10 +189,11 @@ This aligns with the principle that iteration helps manage change and keeps the 
 
 We selected:
 
-Frontend: React
-Backend: Node.js + Express
-Database: MySQL
-Deployment (later stage): AWS
+Frontend: Android application built using Kotlin and Jetpack Compose
+Repository Layer: DataRepository for application logic and prototype data handling
+Backend (planned production): Node.js + Express
+Database (planned production): MySQL hosted on Amazon RDS
+Deployment (planned production): AWS EC2 + Amazon RDS
 
 The decision was based on:
 
