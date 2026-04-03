@@ -18,3 +18,4 @@ This allowed the Android application to retrieve live restaurant data from the c
 
 <img width="940" height="1082" alt="image" src="https://github.com/user-attachments/assets/38277264-a781-4a07-a7af-0e791185842c" />
   
+Hostlink: http://localhost:3000/restaurants
