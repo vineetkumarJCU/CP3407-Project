@@ -1,24 +1,37 @@
-![img.png](img.png)
+## Cloud Database Deployment (Amazon RDS)
 
-Cloud Database Deployment (Amazon RDS)
-A production-ready MySQL relational database was successfully deployed on Amazon RDS.
-The hosted schema currently includes:
-•	users
-•	restaurants
-•	menu_items
-•	orders
-•	reviews
-•	order_history
-Sample production data was inserted successfully to validate the cloud deployment.
-This deployed database supports:
-•	authentication
-•	restaurant browsing
-•	menu management
-•	order placement
-•	future vendor analytics
-•	review system
-•	admin approval workflow
-This deployment choice improves scalability, maintainability, and production readiness.
+A production-ready **MySQL relational database** was successfully deployed on **Amazon RDS**.
 
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+### Hosted Schema
+
+The cloud-hosted schema currently includes the following core tables:
+
+* `users`
+* `restaurants`
+* `menu_items`
+* `orders`
+* `reviews`
+* `order_history`
+
+Sample production data was inserted successfully to validate the cloud deployment and ensure the relational schema supports the main system workflows.
+
+### Supported Application Features
+
+This deployed database currently supports:
+
+* user authentication
+* restaurant browsing
+* menu management
+* order placement
+* future vendor analytics
+* review system
+* admin approval workflow
+
+### Design Justification
+
+This deployment choice improves:
+
+* **Scalability** — supports future growth in users, restaurants, and orders
+* **Maintainability** — centralised relational structure simplifies updates and feature expansion
+* **Production Readiness** — cloud deployment on Amazon RDS reflects real-world software engineering practices
+* **Security** — controlled access through AWS networking and MySQL authentication
