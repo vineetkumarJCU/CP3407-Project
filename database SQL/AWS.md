@@ -19,6 +19,8 @@ This deployed database supports:
 •	review system
 •	admin approval workflow
 This deployment choice improves scalability, maintainability, and production readiness.
+
+
 <img width="452" height="379" alt="image" src="https://github.com/user-attachments/assets/025e37be-b20a-41b7-9d2b-21e53ce204d5" />
 <img width="452" height="383" alt="image" src="https://github.com/user-attachments/assets/2b852f6a-da93-49bc-82b9-58cd5c57e768" />
 
