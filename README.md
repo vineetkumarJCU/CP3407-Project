@@ -242,7 +242,7 @@ Admin Approval, priority 40, 3 days
 Total: 10 days
 
 # Actual iterations
-1. [Iteration-1](./iteration_1.md)
+1. [Iteration-1](database SQL/Iterations/iteration_1.md)
 
 Actual Iterations
 
@@ -316,7 +316,7 @@ DataRepository used for local simulation of application behaviour
 This deployment plan ensures scalability, security, and future production readiness.
 
 
-2. [Iteration-2](./iteration_2.md)
+2. [Iteration-2](database SQL/Iterations/iteration_2.md)
 # Actual Iteration 2
 
 ## Duration
