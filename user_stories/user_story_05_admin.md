@@ -11,7 +11,6 @@ I want to approve or reject restaurant registrations,
 So that platform quality and trust are maintained.
 
 ### Acceptance Criteria
-- Admin login required
 - Admin can view pending vendor registrations
 - Admin can approve vendor
 - Admin can reject vendor
