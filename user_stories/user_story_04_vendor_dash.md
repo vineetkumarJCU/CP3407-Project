@@ -11,7 +11,6 @@ I want to add, edit, and remove menu items,
 So that I can manage my offerings.
 
 ### Acceptance Criteria
-- Vendor login required
 - Vendor can create menu items
 - Vendor can update menu items
 - Vendor can delete menu items
