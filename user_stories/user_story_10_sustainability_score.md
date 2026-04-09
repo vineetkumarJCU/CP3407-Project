@@ -11,7 +11,6 @@ So that I can make environmentally conscious decisions.
 ## Acceptance Criteria
 - Sustainability score displayed on restaurant listing
 - Score stored in database
-- Score range clearly explained
 
 ## Business Value
 Supports the sustainability positioning of the platform.
