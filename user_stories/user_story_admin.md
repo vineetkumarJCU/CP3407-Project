@@ -1,6 +1,4 @@
-# User Story 05 – Admin Controls
-
-## Story 7: Approve Vendors
+## Update Story 7: Approve Vendors
 
 **Priority:** Low  
 **Estimate:** 3 Ideal Days  
