@@ -1,4 +1,4 @@
-## Story 4: Place Food Order
+## User Story 4: Place Food Order
 
 **Priority:** High  
 **Estimate:** 5 Ideal Days  
