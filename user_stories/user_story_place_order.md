@@ -1,5 +1,3 @@
-# User Story 03 – Place Order
-
 ## Story 4: Place Food Order
 
 **Priority:** High  
