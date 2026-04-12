@@ -16,7 +16,7 @@
 ---
 
 # Team Capacity
-**Assumed Velocity from Iteration-1:** 16 ideal days  
+**Assumed Velocity from Iteration-1:** 14 ideal days  
 **Number of developers:** 2  
 **Total estimated amount of work:** 18 ideal days  
 
