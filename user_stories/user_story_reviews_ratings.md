@@ -1,18 +1,18 @@
-# User Story 07 – Reviews & Ratings
+## User Story 09 – Reviews & Ratings
 
 **Priority:** Medium
 **Estimate:** 3 Ideal Days
 
-## Description
+### Description
 As a customer,
 I want to leave a review and rating after receiving my order,
 So that I can share my experience.
 
-## Acceptance Criteria
+### Acceptance Criteria
 - User can rate from 1–5 stars
 - User can leave text feedback
 - Review linked to specific restaurant
 - Average rating auto-calculated
 
-## Business Value
+### Business Value
 Improves platform credibility and quality control.
