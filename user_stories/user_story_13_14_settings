@@ -20,53 +20,7 @@ So that I can manage my account details and quickly access personal options.
 ### Business Value
 Improves user convenience and strengthens account engagement.
 
-
-## Story 14: Explore Restaurants
-
-**Priority:** High  
-**Estimate:** 4 Ideal Days  
-
-### Description
-As a customer,  
-I want to browse available restaurants and cuisines,  
-So that I can quickly discover food options.
-
-### Acceptance Criteria
-- Restaurant list page available
-- Delivery fee shown
-- Ratings displayed
-- Sustainability score shown
-- View details button available
-- Save restaurant button available
-
-### Business Value
-Core browsing experience that drives ordering behaviour.
-
-
-## Story 18: View Order History
-
-**Priority:** High  
-**Estimate:** 3 Ideal Days  
-
-### Description
-As a customer,  
-I want to view my past and current orders,  
-So that I can track purchases and reorder easily.
-
-### Acceptance Criteria
-- Orders screen available
-- Empty state shown if no orders
-- Past orders listed in cards
-- Customer name shown
-- Delivery address shown
-- Phone number shown
-- Order status visible
-
-### Business Value
-Encourages repeat usage and increases customer trust.
-
-
-## Story 19: Change Theme & Accent
+## Story 14: Change Theme & Accent
 
 **Priority:** Medium  
 **Estimate:** 2 Ideal Days  
