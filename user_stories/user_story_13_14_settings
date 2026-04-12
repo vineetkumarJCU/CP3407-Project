@@ -1,0 +1,87 @@
+# User Story 13 and 14 – Customer Profile & Personalisation
+
+## Story 13: View Customer Profile
+
+**Priority:** Medium  
+**Estimate:** 3 Ideal Days  
+
+### Description
+As a customer,  
+I want to view my profile information and account settings,  
+So that I can manage my account details and quickly access personal options.
+
+### Acceptance Criteria
+- Customer profile card displayed in settings
+- Username/avatar visible
+- Easy access to saved stores
+- Easy access to order history
+- Navigation available from settings page
+
+### Business Value
+Improves user convenience and strengthens account engagement.
+
+
+## Story 14: Explore Restaurants
+
+**Priority:** High  
+**Estimate:** 4 Ideal Days  
+
+### Description
+As a customer,  
+I want to browse available restaurants and cuisines,  
+So that I can quickly discover food options.
+
+### Acceptance Criteria
+- Restaurant list page available
+- Delivery fee shown
+- Ratings displayed
+- Sustainability score shown
+- View details button available
+- Save restaurant button available
+
+### Business Value
+Core browsing experience that drives ordering behaviour.
+
+
+## Story 18: View Order History
+
+**Priority:** High  
+**Estimate:** 3 Ideal Days  
+
+### Description
+As a customer,  
+I want to view my past and current orders,  
+So that I can track purchases and reorder easily.
+
+### Acceptance Criteria
+- Orders screen available
+- Empty state shown if no orders
+- Past orders listed in cards
+- Customer name shown
+- Delivery address shown
+- Phone number shown
+- Order status visible
+
+### Business Value
+Encourages repeat usage and increases customer trust.
+
+
+## Story 19: Change Theme & Accent
+
+**Priority:** Medium  
+**Estimate:** 2 Ideal Days  
+
+### Description
+As a customer,  
+I want to customise the app theme and accent colours,  
+So that I can personalise the app experience.
+
+### Acceptance Criteria
+- Dark mode toggle available
+- Accent colour options available
+- Theme changes instantly
+- Reset settings button available
+- Preference retained during session
+
+### Business Value
+Improves user satisfaction and app personalisation.
