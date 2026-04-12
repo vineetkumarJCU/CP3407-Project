@@ -1,0 +1,41 @@
+## User Story 13 – Customer Profile Management
+**Title:** Customer Profile Management  
+**Priority:** Medium  
+**Estimate:** 3 Ideal Days  
+
+### Description
+As a customer,  
+I want to view my profile information and account settings,  
+So that I can manage my account details and quickly access personal options.
+
+### Acceptance Criteria
+- Customer profile card is displayed in settings  
+- Username/avatar is visible  
+- Easy access to saved stores  
+- Easy access to order history  
+- Navigation is available from settings page  
+
+### Business Value
+Improves user convenience and strengthens long-term account engagement.
+
+---
+
+## User Story 14 – Theme & Accent Personalisation
+**Title:** Theme & Accent Personalisation  
+**Priority:** Medium  
+**Estimate:** 2 Ideal Days  
+
+### Description
+As a customer,  
+I want to customise the app theme and accent colours,  
+So that I can personalise the app experience.
+
+### Acceptance Criteria
+- Dark mode toggle is available  
+- Accent colour options are available  
+- Theme changes instantly  
+- Reset settings button is available  
+- Preference is retained during session  
+
+### Business Value
+Improves user satisfaction, accessibility, and app personalisation.

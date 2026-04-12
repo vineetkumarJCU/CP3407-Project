@@ -1,13 +1,14 @@
-## User Story 1 - User Registration
+# Product Backlog – FeedMe
 
+## User Story 1 – Customer Account Registration
 **Title:** Customer Account Registration  
 **Priority:** High  
-**Estimate:** 3 ideal days  
+**Estimate:** 3 Ideal Days  
 
 ### Description
 As a customer,  
-I want to create an account using my email and password,  
-So that I can place food orders.
+I want to create an account using my name, email, and password,  
+So that I can place food orders securely.
 
 ### Acceptance Criteria
 - User can enter name, email, and password  
@@ -17,13 +18,14 @@ So that I can place food orders.
 - Error message shown for invalid input  
 
 ### Business Value
-Allows users to securely access platform features.
+Allows customers to securely access platform features and place orders.
 
-## User Story 2 – User Login
+---
 
-**Title:** Customer Login  
+## User Story 2 – Secure Customer Login
+**Title:** Secure Customer Login  
 **Priority:** High  
-**Estimate:** 2 ideal days  
+**Estimate:** 2 Ideal Days  
 
 ### Description
 As a customer,  
@@ -37,4 +39,4 @@ So that I can access my profile and place orders.
 - Successful login creates session/token  
 
 ### Business Value
-Provides secure access control.
+Provides secure access control for authenticated users.
