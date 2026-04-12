@@ -1,5 +1,5 @@
-## User Story 12 – Sustainability Score
-
+## User Story 12 – Restaurant Sustainability Score
+**Title:** Restaurant Sustainability Score  
 **Priority:** Medium  
 **Estimate:** 3 Ideal Days  
 
@@ -9,8 +9,8 @@ I want to see a sustainability score for each restaurant,
 So that I can make environmentally conscious decisions.
 
 ### Acceptance Criteria
-- Sustainability score displayed on restaurant listing
-- Score stored in database
+- Sustainability score is displayed on restaurant listings  
+- Score is stored in database  
 
 ### Business Value
-Supports the sustainability positioning of the platform.
+Supports the sustainability positioning and ethical value proposition of the platform.
