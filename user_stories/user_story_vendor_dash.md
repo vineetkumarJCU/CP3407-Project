@@ -1,6 +1,4 @@
-# User Story 04 – Vendor Dashboard
-
-## Story 5: Vendor Menu Management
+## User Story 5: Vendor Menu Management
 
 **Priority:** Medium  
 **Estimate:** 4 Ideal Days  
@@ -20,7 +18,7 @@ So that I can manage my offerings.
 Allows restaurants to maintain accurate menus.
 
 
-## Story 6: Vendor Analytics Dashboard
+## User Story 6: Vendor Analytics Dashboard
 
 **Priority:** Medium  
 **Estimate:** 5 Ideal Days  
