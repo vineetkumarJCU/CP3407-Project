@@ -369,5 +369,20 @@ Requested improvements:
 Action:
 Added to future backlog.
 
+<img width="1080" height="2400" alt="User Story 1" src="https://github.com/user-attachments/assets/b88244a8-d1a7-40af-a904-1f7fb1a7af87" />
+
+<img width="1080" height="2400" alt="User Story 2" src="https://github.com/user-attachments/assets/39a29184-ee10-4a0c-994b-9544dd7148e3" />
+
+<img width="1080" height="2400" alt="User Story 3" src="https://github.com/user-attachments/assets/455a3c58-80f5-4dec-8426-ba64f7c6aa5d" />
+
+<img width="1080" height="2400" alt="User Story 4" src="https://github.com/user-attachments/assets/02b188a9-9102-46a1-a6fd-f1905966bb13" />
+
+<img width="1080" height="2400" alt="User Story 4-1" src="https://github.com/user-attachments/assets/448d7bec-ce55-4d0e-905e-c7b086c7f03b" />
+
+<img width="1080" height="2400" alt="User Story 4-2" src="https://github.com/user-attachments/assets/3c83326a-06a8-4c75-92be-62df578b5d4a" />
+
+<img width="1080" height="2400" alt="User Story 5" src="https://github.com/user-attachments/assets/e0f7999b-d39c-4b5d-a527-930744b4969b" />
+
+<img width="1024" height="1536" alt="User Story 6" src="https://github.com/user-attachments/assets/e2da1aeb-6ccc-4467-a803-dc5e1bda6034" />
 
 
